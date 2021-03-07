@@ -1,22 +1,20 @@
 
 /* Skills Icons */
 .icon-box{
-
-        height:60vh;
-        margin-left: 3vw;
-        margin-right: 3vw;
-        margin-top:5vh;
+    position: relative;
+    margin-top: 500px;
         display: flex;
         flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-around;
+        justify-content: space-between;
         align-content: space-around;
+        align-self: start;
 }
 
-.icon{
-    width: 12vw;
-    height: 12vh;
+.photo{
+    height:auto;
+    width:85%;
 }
+
 
 /* Description */
 p{

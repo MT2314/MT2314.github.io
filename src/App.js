@@ -6,7 +6,7 @@ import 'bootstrap/dist/js/bootstrap.bundle';
 
 //Pages
 import Portfolio from './pages/Portfolio'
-import About from './pages/About'
+import About from './pages/about/About'
 import ContactUs from './pages/ContactUs'
 
 // Components
