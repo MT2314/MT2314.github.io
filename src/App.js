@@ -18,11 +18,14 @@ function App() {
     <div className="App">
       <Navigation />
       <div className="container mt-2" style={{ marginTop: 40 }}>
-        <Router basename= {process.env.PUBLIC_URL + '/'}>
+      {/* <Router basename={`${process.env.PUBLIC_URL}`}>
+          <Switch>
           <Route exact path="/" component={About} />
-          <Route exact path="/contact" component={ContactUs} />
-          <Route exact path="/portfolio" component={Portfolio} />
-        </Router>
+                        <Route exact path="/contact" component={ContactUs} />
+                        <Route exact path="/portfolio" component={Portfolio} />
+            
+          </Switch>
+        </Router> */}
       </div>
     </div>
   );

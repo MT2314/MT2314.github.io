@@ -23,6 +23,12 @@ const navigation = () => {
                    </Nav>
                 </Navbar.Collapse>
             </Navbar>
+
+            <Router basename={`${process.env.PUBLIC_URL}`}>
+                        <Route exact path="/" component={About} />
+                        <Route exact path="/contact" component={ContactUs} />
+                        <Route exact path="/portfolio" component={Portfolio} />
+                    </Router>
             </div>
     )
 }
