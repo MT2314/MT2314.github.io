@@ -1,0 +1,45 @@
+/* Nav Bar */
+.nav-li{
+    margin-left: 3vw;
+    font-size: large;
+}
+
+.navbar-brand {
+    font-size:35px;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+/* Skills Icons */
+.icon-box{
+
+        height:60vh;
+        margin-left: 3vw;
+        margin-right: 3vw;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-content: space-around;
+}
+
+.icon{
+    
+    width: 10vw;
+    height: 10vh;
+}
+
+/* Description */
+p{
+    letter-spacing: .05em;
+    font-weight: 400;
+    text-shadow: 
+    1px -1px 0 #767676, 
+    -1px 2px 1px #737272;
+}
+
+.checkout{
+    width: 60vw;
+}
