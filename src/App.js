@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <Navigation />
       <div className="container mt-2" style={{ marginTop: 40 }}>
-        <Router basename={`${process.env.PUBLIC_URL}`}>
+        <Router basename= {process.env.PUBLIC_URL}>
           <Route exact path="/" component={About} />
           <Route exact path="/contact" component={ContactUs} />
           <Route exact path="/portfolio" component={Portfolio} />
