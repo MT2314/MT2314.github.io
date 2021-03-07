@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
+import { HashRouter as Router, Route, Link } from 'react-router-dom'
 import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
 
 
@@ -12,6 +12,7 @@ const navigation = () => {
     return (
         <div>
 
+            <Router basename={process.env.PUBLIC_URL}>
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Navbar.Brand href="#home">Mike Tkachuk</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -24,10 +25,9 @@ const navigation = () => {
                 </Navbar.Collapse>
             </Navbar>
 
-            <Router basename={`${process.env.PUBLIC_URL}`}>
                         <Route exact path="/" component={About} />
-                        <Route exact path="/contact" component={ContactUs} />
-                        <Route exact path="/portfolio" component={Portfolio} />
+                        <Route  exact path="/contact" component={ContactUs} />
+                        <Route  exact path="/portfolio" component={Portfolio} />
                     </Router>
             </div>
     )
