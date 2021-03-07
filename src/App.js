@@ -1,4 +1,4 @@
-import { HashRouter as Router, Switch, Route, Link } from 'react-router-dom'
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
 // Tools
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
@@ -16,19 +16,17 @@ import Navigation from "./components/Navigation.js";
 function App() {
   return (
     <div className="App">
-      <Router>
       <Navigation />
       <div className="container mt-2" style={{ marginTop: 40 }}>
-        <Switch>
-          <Route exact path="/">
-          </Route>
-          <Route path="/portfolio">
-          </Route>
-          <Route path="/contact">
-          </Route>
-        </Switch>
+      <Router basename={`${process.env.PUBLIC_URL}`}>
+          <Switch>
+          <Route exact path="/" component={About} />
+                        <Route exact path="/contact" component={ContactUs} />
+                        <Route exact path="/portfolio" component={Portfolio} />
+            
+          </Switch>
+        </Router>
       </div>
-    </Router>
     </div>
   );
 }
