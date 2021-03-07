@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
+import { HashRouter as Router, Switch, Route, Link } from 'react-router-dom'
 // Tools
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
