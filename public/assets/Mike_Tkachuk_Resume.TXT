@@ -1,0 +1,101 @@
+
+Mike Tkachuk
+Student University Of Toronto 
+
+Toronto, Ontario M8W3P4
+Phone: (647) 410-5436
+E-Mail: tkachuk2314@gmail.com
+
+Professional Summary
+
+Solution-driven Junior Web Developer adept at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused websites using HTML, CSS, and JavaScript. Built products for desktop and mobile app users, meeting highest standards for web design, user experience, best practices and speed. Designed and developed web applications across multiple APIs, third-party integrations and databases.
+
+Skills
+
+CSS  
+
+Bootstrap  
+
+Materialize  
+
+Javascript  
+
+Jquery  
+
+Excellent organizational skills with ability to work well under pressure.  
+
+SQL  
+
+Mongo DB  
+
+Work History
+
+November 2018 to Current
+EllisDon / Oxford  Toronto, Ontario
+Shop Lead / Material Handler Team Lead    
+
+Coordinated daily work strategies to properly move and ship materials to construction sites around the GTA.
+Evaluated suppliers by assessing quality, timeliness and compliance of deliveries to maintain tight cost controls and maximize business operational efficiency.
+Adjusted job assignments and schedules to keep pace with dynamic business needs, factoring in processes, employee knowledge and customer demands.
+Cross-trained existing employees to maximize team agility and performance.
+
+October 2017 to Current
+Green Clean Mobile Wash 
+Pressure Washer/ Team Lead/Contractor    
+
+Operating machinery and leading small detailing teams towards job completion.
+Identifying clients' needs, relaying job parameters to management for pricing and
+ensuring that those parameters are fulfilled to the clients' satisfaction.
+Training new hires as detailers, training experienced detailers as machinery
+operators/team leads.
+Documenting job completion, before/ after proofs and generating invoices.
+Maintaining team morale and work quality throughout 10-12 hour shifts as head authority
+on the job site.
+
+January 2015 to June 2016
+Pro-Clean Mobile Wash 
+Business Developer/Project Manager    
+
+Prioritizing and allocating resources based on timing, and project requirements.
+Identifying process and workflow issues, and adjusting workloads and schedules as
+necessary based on the team's overall priorities.
+Maintaining high level of client satisfaction with regularly scheduled calls and in person
+interactions specifically for larger clients, e.g., GIGG Express, Pride Group
+Transport/Sales, Day & Ross and others.
+Developing new projects to achieve financial growth and stability for the company, e.g.,
+Toronto Car Show, Niagara Car Show, Via Rail, Target Corp, Co-op Housing and more.
+
+June 2014 to January 2015
+GAV 
+Business Developer/Administrator    
+
+Networking with potential clients and maintaining good relations with current clients
+such as Loblaw's and Wal-Mart.
+Studying the market and company's competitors and working on solutions/services the
+company can provide.
+Generating timely invoices, resolving any issues and following up on unpaid accounts.
+Managing Human Resources department and responsible for hiring new staff.
+Managing Cash Flow, Pay Rolls and generating timely invoices with respect to the
+services provided.
+
+Education
+
+University Of Toronto (Bootcamp) Toronto
+Certificate Web Development / Full Stack 
+
+Javascript, Jquery, React, Node.js,
+Api, SQL, MongoDB
+CSS, Bootstrap, Materialize
+
+Humber College 
+Electro-Mechanical Engineering Robotics and Automation 
+
+Develop and design control schematics and their specifications according to the
+necessary process.
+Author, write, program automation logic to control equipment, machines, and the flow of
+information
+Worked and successfully completed multiple small projects and designs as required by
+instructors.
+
+St. Paul Secondary School 
+

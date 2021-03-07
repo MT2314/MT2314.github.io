@@ -1,0 +1,31 @@
+
+/* Skills Icons */
+.icon-box{
+
+        height:60vh;
+        margin-left: 3vw;
+        margin-right: 3vw;
+        margin-top:5vh;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-content: space-around;
+}
+
+.icon{
+    width: 12vw;
+    height: 12vh;
+}
+
+/* Description */
+p{
+    letter-spacing: .05em;
+    font-weight: 400;
+    text-shadow: 
+    1px -1px 0 #767676, 
+}
+
+.checkout{
+    width: 60vw;
+} 
