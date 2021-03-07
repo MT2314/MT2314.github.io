@@ -1,5 +1,5 @@
 
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
+import { HashRouter as Router, Route, Link } from 'react-router-dom'
 import Portfolio from './Portfolio'
 import Abouttext from '../components/Abouttext'
 import './aboutme.css'
