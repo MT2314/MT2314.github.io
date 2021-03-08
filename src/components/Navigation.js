@@ -6,7 +6,7 @@ import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
 // Pages
 import About from "../pages/about/About";
 import ContactUs from "../pages/ContactUs";
-import Portfolio from "../pages/Portfolio";
+import Portfolio from "../pages/portfolio/Portfolio";
 import App from '../App';
 
 const navigation = () => {

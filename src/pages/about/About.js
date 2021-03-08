@@ -1,6 +1,6 @@
 
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
-import Portfolio from '../Portfolio'
+import Portfolio from '../portfolio/Portfolio'
 import Abouttext from '../../components/Abouttext'
 import './aboutme.css'
 

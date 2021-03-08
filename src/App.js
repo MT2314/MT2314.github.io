@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
 
 //Pages
-import Portfolio from './pages/Portfolio'
+import Portfolio from './pages/portfolio/Portfolio'
 import About from './pages/about/About'
 import ContactUs from './pages/ContactUs'
 
@@ -13,7 +13,7 @@ import ContactUs from './pages/ContactUs'
 import Navigation from "./components/Navigation.js";
 
 
-function App() {
+function App({}) {
   return (
     <div className="App">
       <Router>
