@@ -1,23 +1,22 @@
 import React from 'react'
-import {Card} from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 
-export const ProjectCarousal = ({image}) => {
+export const ProjectCarousal = ({ currentProject, image, currentDescription, technologies, link }) => {
     return (
         <div>
-<Card>
-    <Card.Img variant="top" src={image} />
-    <Card.Body>
-      <Card.Title>Card title</Card.Title>
-      <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This card has even longer content than the first to
-        show that equal height action.
-      </Card.Text>
-    </Card.Body>
-    <Card.Footer>
-      <small className="text-muted">Last updated 3 mins ago</small>
-    </Card.Footer>
-  </Card>
+            <Card style = {{marginTop:75}}>
+                <Card.Img variant="top" src={image} />
+                <Card.Body>
+                    <Card.Title></Card.Title>
+                    <Card.Text>
+                        {currentDescription}
+                </Card.Text>
+                </Card.Body>
+                <Card.Footer>
+                    <small className="text-muted"><a href={link}>{link}</a></small>
+                    <p className="text-muted">{technologies}</p>
+                </Card.Footer>
+            </Card>
         </div>
     )
 }
